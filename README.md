@@ -77,6 +77,9 @@ To install package dependencies, run:
 or on Ubuntu:
 
     $ sudo apt-get install python3-urllib3 python3-cryptography python3-bs4 python3-requests
+or on Fedora:
+
+    $ sudo dnf install python3-urllib3 python3-cryptography python3-beautifulsoup4 python3-requests
 
 ### Installing from this repository
 
